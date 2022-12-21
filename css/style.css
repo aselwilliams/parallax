@@ -16,17 +16,20 @@ body, html {
     background-attachment: fixed;
 }
 .pimg1{
-    background-image: url('https://images.pexels.com/photos/371589/pexels-photo-371589.jpeg?auto=compress&cs=tinysrgb&w=1600');
+    /* background-image: url('https://images.pexels.com/photos/371589/pexels-photo-371589.jpeg?auto=compress&cs=tinysrgb&w=1600'); */
+    background-image: url(https://dinarakasko.com/wp-content/uploads/2020/07/berrytart.jpg);
     min-height: 100%;
 }
 
 .pimg2{
-    background-image: url('https://images.pexels.com/photos/753626/pexels-photo-753626.jpeg?auto=compress&cs=tinysrgb&w=1600');
+    /* background-image: url('https://images.pexels.com/photos/753626/pexels-photo-753626.jpeg?auto=compress&cs=tinysrgb&w=1600'); */
+    background-image: url("https://cdn.fs.teachablecdn.com/itvtm6DWQ7yCQ78TdtfW");
     min-height: 400px;
 }
 
 .pimg3{
-    background-image: url('https://images.pexels.com/photos/188973/matterhorn-alpine-zermatt-mountains-188973.jpeg?auto=compress&cs=tinysrgb&w=1600');
+    /* background-image: url('https://images.pexels.com/photos/188973/matterhorn-alpine-zermatt-mountains-188973.jpeg?auto=compress&cs=tinysrgb&w=1600'); */
+    background-image: url("https://dinarakasko.com/wp-content/uploads/2022/11/I-1.jpg");
     min-height: 400px;
 }
 .section{
